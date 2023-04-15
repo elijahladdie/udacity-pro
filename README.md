@@ -1,2 +1,2 @@
 # udacity-pro
-this repo is for holding udacity learing projects in react and redux.
+this repo is for holding udacity learning projects in react and redux.
